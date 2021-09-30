@@ -24,6 +24,7 @@
 <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/power-bi.png"></a>
 <a href="https://www.fullstackpython.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/flask.png"></a>
 <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"></a>
+<a href="https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15" target="_blank"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
   
 <h3 align="left">Streak-stats:</h3>
 <p align="centre">
