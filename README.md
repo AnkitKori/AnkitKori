@@ -23,6 +23,7 @@
 <a href="https://www.tableau.com/g" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"></a>
 <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/power-bi.png"></a>
 <a href="https://www.fullstackpython.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/flask.png"></a>
+<a href="https://hadoop.apache.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"></a>
   
 <h3 align="left">Streak-stats:</h3>
 <p align="centre">
