@@ -2,15 +2,10 @@
 <h3 align="left">A motivated student pursuing M.Sc. Data Science and AI,seeking opportunities where I can utilize my Statistical, mathematical and technical skills to solve real life problems related to analyzing a big volume of datasets to draw insights that can help with business decisions. A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **Machine learning and Deep learning**
-
 - 🌱 I’m currently learning: **Powerbi**
-
 - 👯 I’m looking to collaborate with **other developers**
-
 - 💬 Ask me about: **Anything**
-
 - 📫 How to reach me: **ankitkori360@gmail.com**
-
 - ⚡ Fun fact: **I love to take pictures**
 
 <h3 align="left">Connect with me:</h3>
