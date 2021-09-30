@@ -11,8 +11,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ankit-kori-1681541ba/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"></a>
-<a href="https://www.instagram.com/ankit_kori__/"><img src="https://img.icons8.com/cute-clipart/48/000000/instagram-new.png"></a>
-<a href="https://github.com/AnkitKori"><img src="https://img.icons8.com/material-outlined/48/000000/github.png"></a>
+<a href="https://www.instagram.com/ankit_kori__/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"></a>
+<a href="https://github.com/AnkitKori"><img src="https://img.icons8.com/color-glass/48/000000/github.png"></a>
 <a href="https://www.facebook.com/profile.php?id=100011636657432"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"></a>
 </p>
 
@@ -21,8 +21,8 @@
 <a href="https://www.mysql.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"></a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"></a>
 <a href="https://www.tableau.com/g" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"></a>
-<a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/ios/48/000000/power-bi.png"></a>
-<a href="https://www.fullstackpython.com/" target="_blank"> <img src="https://img.icons8.com/ios/48/000000/flask.png""></a>
+<a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/power-bi.png"></a>
+<a href="https://www.fullstackpython.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/flask.png"></a>
   
 <h3 align="left">Streak-stats:</h3>
 <p align="centre">
