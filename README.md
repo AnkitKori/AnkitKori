@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankit Kori</h1>
+<h1 align="left">Hi 👋, I'm Ankit Kori</h1>
 <h3 align="left">A motivated student pursuing M.Sc. Data Science and AI,seeking opportunities where I can utilize my Statistical, mathematical and technical skills to solve real life problems related to analyzing a big volume of datasets to draw insights that can help with business decisions.</h3>
 
 - 🔭 I’m currently focusing on **Machine learning and Deep learning**
