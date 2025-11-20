@@ -2,7 +2,7 @@
 <h3 align="left">Don't forget to enjoy.</h3>
 
 - 🔭 I’m currently focusing on **Machine learning and Deep learning**
-- 🌱 I’m currently learning: **Powerbi**
+- 🌱 I’m currently learning: **AWS**
 - 👯 I’m looking to collaborate with **other developers**
 - 💬 Ask me about: **Anything**
 - 📫 How to reach me: **ankitkori360@gmail.com**
