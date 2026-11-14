@@ -1,12 +1,12 @@
 <h1 align="left">Hi 👋, I'm Ankit Kori</h1>
 <h3 align="left">Don't forget to enjoy.</h3>
 
-- 🔭 I’m currently focusing on **Machine learning and Deep learning**
+- 🔭 I’m currently focusing on **Data Engineering and Data Science**
 - 🌱 I’m currently learning: **AWS**
 - 👯 I’m looking to collaborate with **other developers**
 - 💬 Ask me about: **Anything**
 - 📫 How to reach me: **ankitkori360@gmail.com**
-- ⚡ Fun fact: **I love to take pictures**
+- ⚡ Fun fact: **I love to explore new tools**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
